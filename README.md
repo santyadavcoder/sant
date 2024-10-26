@@ -4,9 +4,28 @@
 
 ## Preview
 
+
+
+
+
+
+
+<img width="1244" alt="Screenshot 2024-10-26 at 5 30 07 PM" src="https://github.com/user-attachments/assets/6fca8507-ec70-479d-822a-abc369e50dd4">
+
+
+
+
+
+
+
+
+
+
+
+
 [![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://santyadavcoder.github.io/sant/)**
 
 ## Status
 
